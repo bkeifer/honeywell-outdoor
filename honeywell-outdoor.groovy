@@ -1,7 +1,7 @@
 /**
  *  Total Comfort API Outdoor Weather Sensor
  *
- *  Based on code by Eric Thomas
+ *  Based on code by Eric Thomas and Jody Albritton
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
