@@ -55,7 +55,7 @@ metadata {
             state "default", action:"polling.poll", icon:"st.secondary.refresh"
         }
 
-        main "temperature"
+        main (["temperature", "humidity"])
         details(["temperature", "humidity", "refresh",])
     }
 }
